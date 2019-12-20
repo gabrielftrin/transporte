@@ -1,0 +1,11 @@
+C:\Users\gtrindade\OneDrive - TecnoTRENDS\Arquivos\GitHub\transporte\sistema_gestao_transporte\sistema_gestao_transporte\bin\Debug\netcoreapp2.1\sistema_gestao_transporte.deps.json
+C:\Users\gtrindade\OneDrive - TecnoTRENDS\Arquivos\GitHub\transporte\sistema_gestao_transporte\sistema_gestao_transporte\bin\Debug\netcoreapp2.1\sistema_gestao_transporte.runtimeconfig.json
+C:\Users\gtrindade\OneDrive - TecnoTRENDS\Arquivos\GitHub\transporte\sistema_gestao_transporte\sistema_gestao_transporte\bin\Debug\netcoreapp2.1\sistema_gestao_transporte.runtimeconfig.dev.json
+C:\Users\gtrindade\OneDrive - TecnoTRENDS\Arquivos\GitHub\transporte\sistema_gestao_transporte\sistema_gestao_transporte\bin\Debug\netcoreapp2.1\sistema_gestao_transporte.dll
+C:\Users\gtrindade\OneDrive - TecnoTRENDS\Arquivos\GitHub\transporte\sistema_gestao_transporte\sistema_gestao_transporte\bin\Debug\netcoreapp2.1\sistema_gestao_transporte.pdb
+C:\Users\gtrindade\OneDrive - TecnoTRENDS\Arquivos\GitHub\transporte\sistema_gestao_transporte\sistema_gestao_transporte\obj\Debug\netcoreapp2.1\sistema_gestao_transporte.csprojAssemblyReference.cache
+C:\Users\gtrindade\OneDrive - TecnoTRENDS\Arquivos\GitHub\transporte\sistema_gestao_transporte\sistema_gestao_transporte\obj\Debug\netcoreapp2.1\sistema_gestao_transporte.csproj.CoreCompileInputs.cache
+C:\Users\gtrindade\OneDrive - TecnoTRENDS\Arquivos\GitHub\transporte\sistema_gestao_transporte\sistema_gestao_transporte\obj\Debug\netcoreapp2.1\sistema_gestao_transporte.AssemblyInfoInputs.cache
+C:\Users\gtrindade\OneDrive - TecnoTRENDS\Arquivos\GitHub\transporte\sistema_gestao_transporte\sistema_gestao_transporte\obj\Debug\netcoreapp2.1\sistema_gestao_transporte.AssemblyInfo.cs
+C:\Users\gtrindade\OneDrive - TecnoTRENDS\Arquivos\GitHub\transporte\sistema_gestao_transporte\sistema_gestao_transporte\obj\Debug\netcoreapp2.1\sistema_gestao_transporte.dll
+C:\Users\gtrindade\OneDrive - TecnoTRENDS\Arquivos\GitHub\transporte\sistema_gestao_transporte\sistema_gestao_transporte\obj\Debug\netcoreapp2.1\sistema_gestao_transporte.pdb
