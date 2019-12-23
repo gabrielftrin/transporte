@@ -1,0 +1,10 @@
+C:\Users\gtrindade\OneDrive - TecnoTRENDS\Arquivos\GitHub\transporte\GestaoDeRecargas\bin\Debug\GestaoDeRecargas.exe.config
+C:\Users\gtrindade\OneDrive - TecnoTRENDS\Arquivos\GitHub\transporte\GestaoDeRecargas\bin\Debug\GestaoDeRecargas.exe
+C:\Users\gtrindade\OneDrive - TecnoTRENDS\Arquivos\GitHub\transporte\GestaoDeRecargas\bin\Debug\GestaoDeRecargas.pdb
+C:\Users\gtrindade\OneDrive - TecnoTRENDS\Arquivos\GitHub\transporte\GestaoDeRecargas\obj\Debug\GestaoDeRecargas.csprojAssemblyReference.cache
+C:\Users\gtrindade\OneDrive - TecnoTRENDS\Arquivos\GitHub\transporte\GestaoDeRecargas\obj\Debug\GestaoDeRecargas.Properties.Resources.resources
+C:\Users\gtrindade\OneDrive - TecnoTRENDS\Arquivos\GitHub\transporte\GestaoDeRecargas\obj\Debug\GestaoDeRecargas.csproj.GenerateResource.cache
+C:\Users\gtrindade\OneDrive - TecnoTRENDS\Arquivos\GitHub\transporte\GestaoDeRecargas\obj\Debug\GestaoDeRecargas.csproj.CoreCompileInputs.cache
+C:\Users\gtrindade\OneDrive - TecnoTRENDS\Arquivos\GitHub\transporte\GestaoDeRecargas\obj\Debug\GestaoDeRecargas.exe
+C:\Users\gtrindade\OneDrive - TecnoTRENDS\Arquivos\GitHub\transporte\GestaoDeRecargas\obj\Debug\GestaoDeRecargas.pdb
+C:\Users\gtrindade\OneDrive - TecnoTRENDS\Arquivos\GitHub\transporte\GestaoDeRecargas\obj\Debug\GestaoDeRecargas.GestaoDeRecargas.resources
